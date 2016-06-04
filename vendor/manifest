@@ -1,0 +1,21 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/mattn/go-colorable",
+			"repository": "https://github.com/mattn/go-colorable",
+			"vcs": "git",
+			"revision": "9056b7a9f2d1f2d96498d6d146acd1f9d5ed3d59",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "gopkg.in/inconshreveable/log15.v2",
+			"repository": "https://gopkg.in/inconshreveable/log15.v2",
+			"vcs": "git",
+			"revision": "b105bd37f74e5d9dc7b6ad7806715c7a2b83fd3f",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
